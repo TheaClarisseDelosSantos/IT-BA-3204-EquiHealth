@@ -1,11 +1,9 @@
-# IT-BA-3204-PROPOSAL
+# PROJECT TITLE: IMPROVING ACCESS TO HEALTHCARE FOR MARGINALIZED COMMUNITIES
 
 De Chavez, Janelle Nikki<br>
 Delos Santos, Thea Clarisse<br>
 Elejorde, Jussel<br>
 Lopez, Keanne<br>
-
-## IMPROVING ACCESS TO HEALTHCARE FOR MARGINALIZED COMMUNITIES
 
 Sustainable Development Goal 3: Good Health and Well-being <br>
 Sustainable Development Goal 10: Reduced Inequalities
