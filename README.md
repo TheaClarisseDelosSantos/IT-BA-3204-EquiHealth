@@ -22,6 +22,11 @@ Marginalized communities often lack access to quality healthcare services, leadi
 
 Furthermore, the prevalence of non-communicable illnesses such as diabetes and cardiovascular disease is increasing, with lifestyle factors and environmental pollutants playing a role. Another critical problem is reducing inequities within and between nations, with income inequality and discrimination frequently sustaining social and economic differences. Addressing these complicated concerns necessitates a multifaceted strategy that includes improving healthcare infrastructure, promoting public health education, and advocating for equity and social justice legislation. Discrimination based on various factors can disadvantage individuals throughout their lives, perpetuating patterns of inequality from generation to generation. Early interventions and investing in all children, especially the poorest and most marginalized, are central to breaking intergenerational poverty and inequality. 
 
+### SIGNIFICANCE OF THE PROPOSED PROJECT
+
+### METHODS
+
+### EXPECTED OUTPUT
 <i>References</i><br>
 https://data.unicef.org/sdgs/goal-3-good-health-wellbeing/<br>
 https://www.un.org/sustainabledevelopment/inequality/
