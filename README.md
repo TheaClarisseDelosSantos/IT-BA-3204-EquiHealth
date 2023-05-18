@@ -7,6 +7,7 @@ Delos Santos, Thea Clarisse<br>
 Elejorde, Jussel<br>
 Lopez, Keanne<br>
 
+![Green Aesthetic Welcome Google Classroom Header (1)](https://github.com/TheaClarisseDelosSantos/IT-BA-3204-PROPOSAL/assets/81212150/a8ec87f7-cb81-4f98-b7fb-2ce8eaa34ef3)
 ### SUSTAINABLE DEVELOPMENT GOALS
 
 Sustainable Development Goal 3: Good Health and Well-being <br>
