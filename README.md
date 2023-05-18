@@ -8,8 +8,6 @@ Elejorde, Jussel<br>
 Lopez, Keanne<br>
 
 ![Green Aesthetic Welcome Google Classroom Header (1)](https://github.com/TheaClarisseDelosSantos/IT-BA-3204-PROPOSAL/assets/81212150/dd46dd7f-7c41-4253-a1dd-ebbeaeca586a)
-### SUSTAINABLE DEVELOPMENT GOALS
-
 Sustainable Development Goal 3: Good Health and Well-being <br>
 Sustainable Development Goal 10: Reduced Inequalities
 
