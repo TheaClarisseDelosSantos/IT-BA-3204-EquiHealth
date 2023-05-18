@@ -7,7 +7,7 @@ Delos Santos, Thea Clarisse<br>
 Elejorde, Jussel<br>
 Lopez, Keanne<br>
 
-![123123](https://github.com/TheaClarisseDelosSantos/IT-BA-3204-PROPOSAL/assets/81212150/3b077e97-26f6-4a0b-ac83-7d10af4f6062)
+![Green Aesthetic Welcome Google Classroom Header (2)](https://github.com/TheaClarisseDelosSantos/IT-BA-3204-PROPOSAL/assets/81212150/2a267bfc-4b03-4a96-8c57-93d4b2ac088c)
 Sustainable Development Goal 3: Good Health and Well-being <br>
 Sustainable Development Goal 10: Reduced Inequalities
 
