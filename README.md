@@ -1,5 +1,4 @@
 ![Green Aesthetic Welcome Google Classroom Header](https://github.com/TheaClarisseDelosSantos/IT-BA-3204-PROPOSAL/assets/81212150/b99cbf1e-22c2-4152-82ad-689e71c40a20)
-# PROJECT TITLE: IMPROVING ACCESS TO HEALTHCARE FOR MARGINALIZED COMMUNITIES
 <b><i>This repository is for our requirement in BAT404 - Analytics Techniques and Tools (ITBA-3204)</i></b>
 
 <b>GROUP MEMBERS</b><br>
