@@ -1,11 +1,3 @@
-Health Care Cost Information System (HCCIS) Data,,,,,,,,,,,,,,,,,,,
-Health Economics Program,,,,,,,,,,,,,,,,,,,
-Minnesota Department of Health,,,,,,,,,,,,,,,,,,,
-Current as of 2-14-2023,,,,,,,,,,,,,,,,,,,
-Asterisk items include hospitals that are open as offsite campuses of another hospital.,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-2022 HCCIS Hospital List,,,,,,,,,,,,,,,,,,,
-Based on 2021 Fiscal Year Data,,,,,,,,,,,,,,,,,,,
 HCCIS ID,Hospital Name,System Affiliation,Ownership,Address,City,County,State,Zip,Phone,Fax,Administrator Name,Administrator Title,CFO Name,Hospital Website Address,CAH,MSA StatUrbans,Emergency Department Physician Director,Licensed Beds for 2021,Available Beds for 2021
 1,Avera Tyler,Avera Health,"Nonprofit Corporation (nongovernmental, nonprofit)",240 Willow Street,Tyler,Lincoln,MN,56178,507-247-5521,507-247-5972,Allen Anderson,Administrator,Christy Coudron,WWW.Avera.Org,Yes,Rural,Dr. Daniel Florey,20,20
 2,Abbott Northwestern Hospital,Allina Health System,"Nonprofit Corporation (nongovernmental, nonprofit)",800 East 28th Street,Minneapolis,Hennepin,MN,55407,612-863-4000,612-863-5667,David Joos,President,Colleen Holton,https://www.allinahealth.org/Abbott-Northwestern-Hospital,No,Urban,Daniel O'Laughlin,972,638
@@ -144,15 +136,3 @@ HCCIS ID,Hospital Name,System Affiliation,Ownership,Address,City,County,State,Zi
 256,Community Behavioral Health Hospital - Bemidji,"Dept of Human Services, State of MN","State (governmental, nonfederal)","800 Bemidji Avenue North, Suite 200",Bemidji,Beltrami,MN,56601,218-308-2400,218-308-6800,Marshall E. Smith,Chief Executive Officer,Shirley Jacobson,,No,Rural,N/A,16,16
 259,PrairieCare,No Affiliation,"Limited Liability Company (nongovernmental, FOR PROFIT)",9400 Zane Ave N,Brooklyn Park,Hennepin,MN,55443,763-762-8800,763-315-3539,Todd Archbold,CEO,Randy Drager,www.prairie-care.com,No,Urban,N/A,71,71
 260,Sanford Behavioral Health Center,Sanford Health,"Nonprofit Corporation (nongovernmental, nonprofit)",120 Labree Ave South NULL,Thief River Falls,Pennington,MN,56701,218-683-4349,-,Brian Carlson,CEO,Kristin Hermann,,No,Rural,N/A,16,16
-,,,,,,,,,,,,,,,,,,,
-,"*Albany Area Hospital closed effective December 31, 2015.",,,,,,,,,,,,,,,,,,
-,"**Mayo Clinic Health System - Albert Lea includes all data from the hospitals previously under separate licenses (2014 and prior) as Mayo Clinic Health 
-
-System - Albert Lea and Mayo Clinic Health System - Austin.",,,,,,,,,,,,,,,,,,
-,"***Mayo Clinic Hospital - Rochester includes all data from the hospitals previously under separate licenses (2013 and prior) as Mayo Clinic Methodist 
-
-Hospital and Saint Marys Hospital.",,,,,,,,,,,,,,,,,,
-,"****Children's Health Care dba Children's Hospitals and Clinics of Minnesota includes all data from the hospitals previously under separate licenses 
-
-(2010 and prior) as Children's Health Care - St. Paul and Children's Health Care - Minneapolis.",,,,,,,,,,,,,,,,,,
-,*****Mercy Hospital in Coon Rapids includes all data from the hospitals previously under separate licenses (2016 and prior) as Mercy Hospital - Coon Rapids and Unity Hospital - Fridley. ,,,,,,,,,,,,,,,,,,
