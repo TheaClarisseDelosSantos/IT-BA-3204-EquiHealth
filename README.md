@@ -4,7 +4,7 @@
 
 ![Green Aesthetic Welcome Google Classroom Header (3)](https://github.com/TheaClarisseDelosSantos/IT-BA-3204-EquiHealth/assets/81212150/1786c5d2-5e5c-4d6c-8a97-089cf1eda057)
 ![Green Aesthetic Welcome Google Classroom Header (820 × 280 px)](https://github.com/TheaClarisseDelosSantos/IT-BA-3204-EquiHealth/assets/81212150/43755e5c-b03d-4c1f-ade6-8cb3b8676b8c)
-Sustainable Development Goal 3: Good Health and Well-being <br>
+<br>Sustainable Development Goal 3: Good Health and Well-being <br>
 Sustainable Development Goal 10: Reduced Inequalities
 
 <p float="left">
