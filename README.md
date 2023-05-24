@@ -1,6 +1,5 @@
-# <i>EquiHealth: Improving Access to Healthcare for Marginalized Communities </i> #
-
 ![1](https://github.com/TheaClarisseDelosSantos/IT-BA-3204-EquiHealth/assets/81212150/1a8b6051-f097-419b-99af-82f76fe998d9)
+# <i>EquiHealth: Improving Access to Healthcare for Marginalized Communities </i> #
 <b><i>This repository is for our requirement in BAT404 - Analytics Techniques and Tools (ITBA-3204)</i></b>
 
 ![Green Aesthetic Welcome Google Classroom Header (3)](https://github.com/TheaClarisseDelosSantos/IT-BA-3204-EquiHealth/assets/81212150/1786c5d2-5e5c-4d6c-8a97-089cf1eda057)
