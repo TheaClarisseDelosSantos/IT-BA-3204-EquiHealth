@@ -7,10 +7,8 @@
 <br>Sustainable Development Goal 3: Good Health and Well-being <br>
 Sustainable Development Goal 10: Reduced Inequalities
 
-<p float="left">
-  <img src="https://www.unoosa.org/images/ourwork/SDGs/E_SDG_goals_icons-individual-rgb-03.png"  width="300" height="300">
-  <img src="https://www.unoosa.org/images/ourwork/SDGs/E_SDG_goals_icons-individual-rgb-10.png"  width="300" height="300">
-</p>
+![Green Aesthetic Welcome Google Classroom Header (6)](https://github.com/TheaClarisseDelosSantos/IT-BA-3204-EquiHealth/assets/81212150/a7515134-90e3-411e-926c-7f8dddde8a51)
+![Green Aesthetic Welcome Google Classroom Header (7)](https://github.com/TheaClarisseDelosSantos/IT-BA-3204-EquiHealth/assets/81212150/6ab96708-d062-44e1-8f1f-d0dc76e7e7bd)
 
 ![Green Aesthetic Welcome Google Classroom Header (820 × 280 px) (1)](https://github.com/TheaClarisseDelosSantos/IT-BA-3204-EquiHealth/assets/81212150/1ff90f7b-03e8-4096-a6b0-09aa19766ff9)
 <br>Achieving healthy lifestyles and promoting well-being for all people of all ages is the goal of Sustainable Development Goal (SDG) 3. It covers objectives such as reducing maternal mortality, ending preventable deaths of newborns and children under five years of age, and achieving universal health coverage. SDG 10 strives to lessen inequality both inside and between nations. It includes targets such as ensuring equal opportunities and promoting the social, economic, and political inclusion of all. These two goals are closely related to improving access to healthcare for marginalized communities. Despite progress in recent years, many people worldwide still need access to essential health services. Marginalized communities, in particular, face significant barriers to accessing healthcare. These barriers include discrimination, poverty, lack of education, and geographic isolation.
