@@ -3,12 +3,7 @@
 ![1](https://github.com/TheaClarisseDelosSantos/IT-BA-3204-EquiHealth/assets/81212150/1a8b6051-f097-419b-99af-82f76fe998d9)
 <b><i>This repository is for our requirement in BAT404 - Analytics Techniques and Tools (ITBA-3204)</i></b>
 
-<b>GROUP MEMBERS</b><br>
-De Chavez, Janelle Nikki<br>
-Delos Santos, Thea Clarisse<br>
-Elejorde, Jussel<br>
-Lopez, Keanne<br>
-
+![Green Aesthetic Welcome Google Classroom Header (3)](https://github.com/TheaClarisseDelosSantos/IT-BA-3204-EquiHealth/assets/81212150/1786c5d2-5e5c-4d6c-8a97-089cf1eda057)
 ![Green Aesthetic Welcome Google Classroom Header (2)](https://github.com/TheaClarisseDelosSantos/IT-BA-3204-PROPOSAL/assets/81212150/2a267bfc-4b03-4a96-8c57-93d4b2ac088c)
 Sustainable Development Goal 3: Good Health and Well-being <br>
 Sustainable Development Goal 10: Reduced Inequalities
