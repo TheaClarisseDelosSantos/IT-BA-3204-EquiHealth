@@ -6,7 +6,7 @@
 ![Green Aesthetic Welcome Google Classroom Header (820 × 280 px)](https://github.com/TheaClarisseDelosSantos/IT-BA-3204-EquiHealth/assets/81212150/43755e5c-b03d-4c1f-ade6-8cb3b8676b8c)
 <br>Sustainable Development Goal 3: Good Health and Well-being <br>
 Sustainable Development Goal 10: Reduced Inequalities
-![Green Aesthetic Welcome Google Classroom Header (5)](https://github.com/TheaClarisseDelosSantos/IT-BA-3204-EquiHealth/assets/81212150/a7edca78-9127-41a1-8b1b-8919fd9a28af)
+
 <p float="left">
   <img src="https://www.unoosa.org/images/ourwork/SDGs/E_SDG_goals_icons-individual-rgb-03.png"  width="300" height="300">
   <img src="https://www.unoosa.org/images/ourwork/SDGs/E_SDG_goals_icons-individual-rgb-10.png"  width="300" height="300">
