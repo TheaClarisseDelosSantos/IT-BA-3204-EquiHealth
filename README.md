@@ -12,6 +12,7 @@ Sustainable Development Goal 10: Reduced Inequalities
   <img src="https://www.unoosa.org/images/ourwork/SDGs/E_SDG_goals_icons-individual-rgb-10.png"  width="300" height="300">
 </p>
 
+![Green Aesthetic Welcome Google Classroom Header (820 × 280 px) (1)](https://github.com/TheaClarisseDelosSantos/IT-BA-3204-EquiHealth/assets/81212150/1ff90f7b-03e8-4096-a6b0-09aa19766ff9)
 ### INTRODUCTION
 Achieving healthy lifestyles and promoting well-being for all people of all ages is the goal of Sustainable Development Goal (SDG) 3. It covers objectives such as reducing maternal mortality, ending preventable deaths of newborns and children under five years of age, and achieving universal health coverage. SDG 10 strives to lessen inequality both inside and between nations. It includes targets such as ensuring equal opportunities and promoting the social, economic, and political inclusion of all. These two goals are closely related to improving access to healthcare for marginalized communities. Despite progress in recent years, many people worldwide still need access to essential health services. Marginalized communities, in particular, face significant barriers to accessing healthcare. These barriers include discrimination, poverty, lack of education, and geographic isolation.
 
